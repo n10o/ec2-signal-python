@@ -1,0 +1,14 @@
+@media (min-width: 768px) {
+  .container {
+    max-width: 730px;
+  }
+}
+
+.rad{
+border-radius:20px;-webkit-border-radius:20px;-moz-border-radius:20px; background:#333;}
+
+img.signal{
+	width: 35px;
+	height: 15px;
+	margin: 0 10px 5px 0;
+}
